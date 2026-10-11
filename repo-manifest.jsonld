@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/get-releasenote/commit/ad89ff3bd631f45622773d5de19d9783729aacfd",
       "git:hexsha": "ad89ff3bd631f45622773d5de19d9783729aacfd",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/get-releasenote/commit/5a78b0e9abd7c54908ace81dbceaded2240df0c2",
